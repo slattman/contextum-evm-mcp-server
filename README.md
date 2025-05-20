@@ -68,12 +68,6 @@ Open your browser or use curl to test:
 ```bash
 curl http://localhost:8787/context
 ```
-
----
-
-## License
-This project is licensed under the MIT License.
-
 ---
 
 # Contributing to Contextum
@@ -115,3 +109,8 @@ If you discover a vulnerability, please email us directly at [founders@contextum
 ---
 
 Thank you for helping build the decentralized AI infrastructure of the future.
+
+---
+
+## License
+This project is licensed under the MIT License.
