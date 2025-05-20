@@ -76,5 +76,42 @@ This project is licensed under the MIT License.
 
 ---
 
-## Contribution
-Contributions are welcome! Please open an issue or submit a pull request.
+# Contributing to Contextum
+
+Thank you for your interest in contributing to Contextum! 🚀
+
+We welcome help with:
+- Bug fixes
+- Feature proposals
+- Protocol improvements
+- Documentation
+- Smart contract review
+
+## 🛠 How to Contribute
+
+1. **Fork** the repo
+2. **Clone** to your local machine
+3. Create a new branch: `git checkout -b my-feature`
+4. Make your changes
+5. Commit and push: `git push origin my-feature`
+6. Create a Pull Request
+
+## Communication
+
+- Open an issue for discussions or proposals
+- Join the conversation (coming soon: Discord/Telegram)
+- Email: [founders@contextum.org](mailto:founders@contextum.org)
+
+## Code Style
+
+- TypeScript: follow standard formatting
+- Commit messages: use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- Smart contracts: comment everything; assume others will read it
+
+## Security
+
+If you discover a vulnerability, please email us directly at [founders@contextum.org](mailto:founders@contextum.org) — **do not file a public issue**.
+
+---
+
+Thank you for helping build the decentralized AI infrastructure of the future.
